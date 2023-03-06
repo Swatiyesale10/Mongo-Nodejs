@@ -1,0 +1,21 @@
+{
+  "name": "mongoconn",
+  "version": "1.0.0",
+  "description": "learnng mongoDB connection with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "swatyesale10"
+  },
+  "author": "swati",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
